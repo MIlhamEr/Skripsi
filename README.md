@@ -1,3 +1,3 @@
 # ==========LSTM 1==========
-Dataset ADRO -> Udah bagus
-Dataset DSSA -> Overfitting
+1. Dataset ADRO -> Udah bagus
+2. Dataset DSSA -> Overfitting
