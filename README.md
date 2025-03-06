@@ -1,9 +1,11 @@
 # Planning eksperimen
 1. Mulai dengan 50 neuron dan 2 layer.
 2. Ganti 100 neuron untuk kompleksitas representasi data.
+
    Lebih banyak neuron → Model dapat menangkap pola yang lebih kompleks dalam data.
+
    Lebih sedikit neuron → Model lebih sederhana dan bisa menghindari overfitting.
-3. Bandingkan dropout 0.2 vs. 0.4 untuk melihat efek overfitting.
+4. Bandingkan dropout 0.2 vs. 0.4 untuk melihat efek overfitting.
 # ===========📊 EDA 📊============
 https://colab.research.google.com/drive/1VcfTKWuIh0CyMwh4eS11GKPFQz9bPB-v?usp=sharing
 # ===========✨ LSTM ✨===========
