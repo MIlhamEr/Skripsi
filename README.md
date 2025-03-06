@@ -1,8 +1,9 @@
 # Planning eksperimen
-1. Mulai dengan 50 neuron, 1-2 layer, dan learning rate 0.001.
-2. Coba window size yang berbeda (misalnya 10 vs. 20 hari).
-3. Bandingkan dropout 0.2 vs. 0.3 untuk melihat efek overfitting.
-4. Uji batch size kecil (32) vs. besar (128) untuk kecepatan training.
+1. Mulai dengan 50 neuron dan 2 layer.
+2. Ganti 100 neuron untuk kompleksitas representasi data.
+   Lebih banyak neuron → Model dapat menangkap pola yang lebih kompleks dalam data.
+   Lebih sedikit neuron → Model lebih sederhana dan bisa menghindari overfitting.
+3. Bandingkan dropout 0.2 vs. 0.4 untuk melihat efek overfitting.
 # ===========📊 EDA 📊============
 https://colab.research.google.com/drive/1VcfTKWuIh0CyMwh4eS11GKPFQz9bPB-v?usp=sharing
 # ===========✨ LSTM ✨===========
