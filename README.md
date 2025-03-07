@@ -8,9 +8,6 @@
 4. Bandingkan dropout 0.2 vs. 0.4 untuk melihat efek overfitting.
 5. Pakai EarlyStopping dan tanpa EarlyStopping.
 # Eksperimen
-## LSTM
-1. versi 5 -> 50 neu, do 0.2, tanpa ES
-2. versi 6 -> 100 neu, do 0.2, tanpa ES
 # ===========📊 EDA 📊============
 https://colab.research.google.com/drive/1VcfTKWuIh0CyMwh4eS11GKPFQz9bPB-v?usp=sharing
 # ===========✨ LSTM ✨===========
