@@ -6,7 +6,6 @@
 
    Lebih sedikit neuron → Model lebih sederhana dan bisa menghindari overfitting.
 4. Bandingkan dropout 0.2 vs. 0.4 untuk melihat efek overfitting.
-5. Pakai EarlyStopping dan tanpa EarlyStopping.
 # Eksperimen
 # ===========📊 EDA 📊============
 https://colab.research.google.com/drive/1VcfTKWuIh0CyMwh4eS11GKPFQz9bPB-v?usp=sharing
