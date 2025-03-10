@@ -5,7 +5,7 @@
    Lebih banyak neuron → Model dapat menangkap pola yang lebih kompleks dalam data.
 
    Lebih sedikit neuron → Model lebih sederhana dan bisa menghindari overfitting.
-3. Epoch 50, 100, 200
+3. Epoch 50 & 100
 
    "Epoch adalah jumlah iterasi penuh di mana model melihat seluruh dataset saat training. Semakin banyak epoch, semakin banyak kesempatan model untuk belajar pola dari data, tetapi terlalu banyak epoch bisa menyebabkan overfitting."
 # Eksperimen
